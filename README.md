@@ -1,11 +1,11 @@
 <h1 align="center">Rajat Sharma</h1>
 
 <p align="center">
-  <b>Senior Frontend Developer</b> &nbsp;|&nbsp; React · Next.js · Vue · Nuxt · SvelteKit · TypeScript &nbsp;|&nbsp; Headless CMS
+  <b>Senior Frontend Developer</b> &nbsp;|&nbsp; React · Next.js · Vue · Nuxt · SvelteKit · TypeScript &nbsp;|&nbsp; Headless CMS &nbsp;|&nbsp; AI-assisted development
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajat-sha7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/rajat-sharma-93175b199/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio-alpha-five-37.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -21,6 +21,29 @@ Frontend developer with **4 years of experience** building production web applic
 - Headless CMS integrations: **Sanity, Strapi, Storyblok and Builder.io** (content modelling, visual editing, previews)
 - Performance optimisation: Core Web Vitals, code splitting, lazy loading, image and bundle optimisation
 - Type-safe, reusable component libraries with **TypeScript** and **Tailwind CSS**
+- AI-assisted development and **LLM integrations** in modern web apps
+
+## AI-assisted development
+
+AI is a core part of how I work. I use it to deliver features faster, with cleaner code and better performance, while keeping full ownership of architecture and quality.
+
+**In my workflow** (Claude, ChatGPT)
+
+- **Faster delivery:** scaffolding components, pages and CMS schemas, so more time goes into architecture, UX and polish
+- **Code quality:** AI-assisted code review, refactoring and test generation
+- **Performance:** analysing bundles, Lighthouse and Core Web Vitals reports to find bottlenecks, then applying targeted optimisations
+- **Documentation:** clear READMEs, technical docs and content models
+
+**In the products I build**
+
+- Integrating **LLM APIs** into React and Next.js applications
+- Building AI-powered UI features such as chat interfaces and content generation
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/LLM%20Integrations-111111?style=flat-square" alt="LLM integrations"/>
+</p>
 
 ## Tech stack
 
@@ -57,4 +80,4 @@ Frontend developer with **4 years of experience** building production web applic
 
 ## Get in touch
 
-Open to frontend and headless CMS projects. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/rajat-sha7).
+Open to frontend and headless CMS projects. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/rajat-sharma-93175b199/).
